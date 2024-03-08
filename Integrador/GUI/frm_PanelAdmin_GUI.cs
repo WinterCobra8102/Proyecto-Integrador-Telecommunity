@@ -84,7 +84,7 @@ namespace Integrador.GUI
 
         private void btn_FiltroBuscarUsuario_Admin_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
         private void btn_AñadirUsuario_Admin_Click(object sender, EventArgs e)
